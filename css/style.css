@@ -299,3 +299,7 @@ color: white;
 .hover-list:hover .line-bg{
     width: 10%;
  }
+
+ .button-translate{
+    width: 120px;
+ }
